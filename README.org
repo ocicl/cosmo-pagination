@@ -1,0 +1,9 @@
+* cosmo-pagination
+
+Pagination helper
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/cosmoframework/cosmo-pagination.git |
+| commit  | 2f82ee8                                                    |
+| systems | cosmo-pagination                                           |
+|---------+------------------------------------------------------------|
